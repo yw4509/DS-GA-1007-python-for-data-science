@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 12 21:46:33 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016e-fd26-901c-000031e82668 
+on database directory /scratch/work/jupyterhub/2019-FA-DS-GA-1007/eac721/DS-GA-1007-Public/demos/demo15/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7d311eb0 
+Loaded from file:/share/apps/spark/spark-2.2.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b10
+user.dir=/scratch/work/jupyterhub/2019-FA-DS-GA-1007/eac721/DS-GA-1007-Public/demos/demo15
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-514.10.2.el7.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
